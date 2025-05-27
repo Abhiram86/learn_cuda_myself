@@ -1,0 +1,5 @@
+.vscode
+**/env
+**/file.exe
+**/file.lib
+**/file.exp
